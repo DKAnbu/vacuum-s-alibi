@@ -8,9 +8,9 @@ One-line excuse from a robot vacuum that missed a spot — a [make.fun](https://
 
 ## The line
 
-> My LiDAR swept that spot twice and filed it under floor's problem now — sensors don't lie, but dust does.
+> My map says that corner is a sovereign state now; I don't enter foreign territory without a treaty.
 
-105 characters, one line.
+99 characters, one line.
 
 ## Run
 
